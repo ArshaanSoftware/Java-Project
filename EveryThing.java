@@ -24,7 +24,7 @@ public class EveryThing {
         }
 
         public void deposit(){
-               
+                System.out.println("Enter amount to deposit");
         }
         }
 
